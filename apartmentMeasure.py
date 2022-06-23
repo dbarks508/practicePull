@@ -1,4 +1,4 @@
-#converts lexi's paper length to actual feet
+#converts lexi's paper length to actual feet!!!!!!1
 
 def paperToFeet(paperLength):
     feet = (float(paperLength) / 2) * 22.25 / 12
